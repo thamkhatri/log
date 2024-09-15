@@ -20,7 +20,7 @@ const LoginSignup = () => {
         </p>
       </div>
 
-      {/* ------------------sign with ----------------------*/}
+      {/* ------------------sign with ------------------*/}
       <div className="pb-4">
         <div className="  pb-1.5">
           <button className=" p-2 max-w-sm mx-auto text-sm flex items-center bg-white border-spacing-2 rounded-sm shadow-md border-b ring-1 ring-gray-200">
