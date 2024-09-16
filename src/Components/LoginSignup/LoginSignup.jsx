@@ -21,9 +21,9 @@ const LoginSignup = () => {
       </div>
 
       {/* ------------------sign with ------------------*/}
-      <div className="pb-4">
-        <div className="  pb-1.5">
-          <button className=" p-2 max-w-sm mx-auto text-sm flex items-center bg-white border-spacing-2 rounded-sm shadow-md border-b ring-1 ring-gray-200">
+      <div className="pb-4 max-w-100">
+        <div className="  pb-1.5 max-w-100">
+          <button className=" p-2 w-96  mx-auto text-sm flex justify-start items-center bg-white border-spacing-2 rounded-sm shadow-md border-b ring-1 ring-gray-200">
             <img className="h-4 w-4 " src={img_2} alt="" />
 
             <div className="text-slate-600 pl-2">
@@ -31,8 +31,8 @@ const LoginSignup = () => {
             </div>
           </button>
         </div>
-        <div className=" ">
-          <button className="  p-2  bg-white text-sm w-50 mx-auto d flex items-center  border-spacing-2 rounded-sm shadow-md border-none ring-1 ring-gray-200">
+        <div className=" xx ">
+          <button className="  p-2   bg-white text-sm  mx-auto d flex items-center  border-spacing-2 rounded-sm shadow-md border-none ring-1 ring-gray-200">
             <img className="h-4 w-4" src={img_3} alt="" />
 
             <div className="text-slate-600 pl-2 text-sm">
